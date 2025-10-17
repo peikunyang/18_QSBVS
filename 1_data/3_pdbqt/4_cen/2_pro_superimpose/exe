@@ -1,0 +1,4 @@
+#!/bin/bash
+prepare_receptor4.py -r 8F76_pro_step5.pdb -o 8F76_pro_step5.pdbqt -A none
+
+

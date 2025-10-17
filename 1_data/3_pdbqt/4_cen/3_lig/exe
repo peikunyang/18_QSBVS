@@ -1,0 +1,4 @@
+python3 rotate_center_lig.py --lig ../../3_pdbqt/2_lig/pdbqt/butyrate1.pdbqt
+python3 rotate_center_lig.py --lig ../../3_pdbqt/2_lig/pdbqt/butyrate2.pdbqt
+python3 rotate_center_lig.py --lig ../../3_pdbqt/2_lig/pdbqt/PPI_ideal.pdbqt
+

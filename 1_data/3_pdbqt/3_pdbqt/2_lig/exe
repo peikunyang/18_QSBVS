@@ -1,0 +1,7 @@
+#!/bin/bash
+prepare_ligand4.py -l 8F76_comp_step5_lig.mol2 -o 8F76_comp_step5_lig.pdbqt -A none
+prepare_ligand4.py -l butyrate1.mol2 -o butyrate1.pdbqt -A none
+prepare_ligand4.py -l butyrate2.mol2 -o butyrate2.pdbqt -A none
+prepare_ligand4.py -l PPI_ideal.mol2 -o PPI_ideal.pdbqt -A none
+
+

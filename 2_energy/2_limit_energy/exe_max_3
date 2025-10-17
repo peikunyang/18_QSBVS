@@ -1,0 +1,8 @@
+cd /home/kun/job/18_QSBVS/2025_10_06/2_energy/2_limit_energy/max_99/2_energy/4_SWAP_test
+./exe_max_99_2
+cd /home/kun/job/18_QSBVS/2025_10_06/2_energy/2_limit_energy/max_9/2_energy/4_SWAP_test
+./exe_max_9_2
+cd /home/kun/job/18_QSBVS/2025_10_06/2_energy/2_limit_energy/max_1/2_energy/4_SWAP_test
+./exe_max_1_2
+cd /home/kun/job/18_QSBVS/2025_10_06/2_energy/2_limit_energy/max_0.4/2_energy/4_SWAP_test
+./exe_max_0.4_2

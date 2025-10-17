@@ -1,0 +1,3 @@
+python comb.py 5_matrix_mul ./E_4_rank_5_matrix_mul
+cat E_4_rank_5_matrix_mul
+

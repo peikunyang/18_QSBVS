@@ -1,0 +1,34 @@
+cd /home/kun/job/18_QSBVS/2025_10_06/2_energy/2_limit_energy/max_9/2_energy/3_Hadamard_test
+./exe_max_9
+cd /home/kun/job/18_QSBVS/2025_10_06/2_energy/2_limit_energy/max_1/2_energy/3_Hadamard_test
+./exe_max_1
+cd /home/kun/job/18_QSBVS/2025_10_06/2_energy/2_limit_energy/max_0.1/2_energy/3_Hadamard_test
+./exe_max_0.1
+
+cd /home/kun/job/18_QSBVS/2025_10_06/2_energy/2_limit_energy/max_99/2_energy/5_matrix_mul
+./exe_max_99
+cd /home/kun/job/18_QSBVS/2025_10_06/2_energy/2_limit_energy/max_9/2_energy/5_matrix_mul
+./exe_max_9
+cd /home/kun/job/18_QSBVS/2025_10_06/2_energy/2_limit_energy/max_1/2_energy/5_matrix_mul
+./exe_max_1
+cd /home/kun/job/18_QSBVS/2025_10_06/2_energy/2_limit_energy/max_0.1/2_energy/5_matrix_mul
+./exe_max_0.1
+
+cd /home/kun/job/18_QSBVS/2025_10_06/2_energy/2_limit_energy/max_99/2_energy/4_SWAP_test
+./exe_pro
+cd /home/kun/job/18_QSBVS/2025_10_06/2_energy/2_limit_energy/max_9/2_energy/4_SWAP_test
+./exe_pro
+cd /home/kun/job/18_QSBVS/2025_10_06/2_energy/2_limit_energy/max_1/2_energy/4_SWAP_test
+./exe_pro
+cd /home/kun/job/18_QSBVS/2025_10_06/2_energy/2_limit_energy/max_0.1/2_energy/4_SWAP_test
+./exe_pro
+
+cd /home/kun/job/18_QSBVS/2025_10_06/2_energy/2_limit_energy/max_99/2_energy/4_SWAP_test
+./exe_max_99
+cd /home/kun/job/18_QSBVS/2025_10_06/2_energy/2_limit_energy/max_9/2_energy/4_SWAP_test
+./exe_max_9
+cd /home/kun/job/18_QSBVS/2025_10_06/2_energy/2_limit_energy/max_1/2_energy/4_SWAP_test
+./exe_max_1
+cd /home/kun/job/18_QSBVS/2025_10_06/2_energy/2_limit_energy/max_0.1/2_energy/4_SWAP_test
+./exe_max_0.1
+

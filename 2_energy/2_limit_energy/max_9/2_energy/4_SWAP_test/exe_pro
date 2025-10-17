@@ -1,0 +1,10 @@
+python3 energy.py \
+  --rec_file ../../1_comb/2_comb/1_rec_combine/rec_pot \
+  --lig_file ../../1_comb/2_comb/2_lig_combine/lig_chg_occ \
+  --rec_order ../../1_comb/2_comb/1_rec_combine/rec_pot_order \
+  --lig_order ../../1_comb/2_comb/2_lig_combine/lig_chg_occ_order \
+  --rec_norm 300 --lig_norm 2.3 --elevate 8 \
+  --shots 0 \
+  --outfile energy/energy_0
+
+

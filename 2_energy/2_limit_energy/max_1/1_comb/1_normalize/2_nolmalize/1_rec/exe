@@ -1,0 +1,1 @@
+python3 normalize.py --indir ../../1_combine/1_rec/maps --outdir ./maps --norm 40 --elevate 1.2

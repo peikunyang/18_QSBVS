@@ -1,0 +1,4 @@
+python com.py ../2_cmp_E_1_atom_E_2_map/energy_2_cmp_E_1_atom_E_2_map ../1_data/max_99/E_1_limit_max ../1_data/max_9/E_1_limit_max \
+  ../1_data/max_1/E_1_limit_max ../1_data/max_0.4/E_1_limit_max ./energy
+
+cat energy

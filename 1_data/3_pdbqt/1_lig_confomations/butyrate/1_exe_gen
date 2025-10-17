@@ -1,0 +1,1 @@
+obabel -:"CCCC(=O)[O-]" -O butyrate.mol2 --gen3d

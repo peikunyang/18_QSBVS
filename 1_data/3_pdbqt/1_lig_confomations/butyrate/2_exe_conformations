@@ -1,0 +1,2 @@
+obabel butyrate.mol2 -O butyrate2.mol2 --conformer --nconf 1 --random --score rmsd --cutoff 1.0
+

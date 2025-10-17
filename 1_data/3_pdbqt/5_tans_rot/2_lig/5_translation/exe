@@ -1,0 +1,2 @@
+python3 trans.py --input_root ../4_rotation/maps --output_root maps
+

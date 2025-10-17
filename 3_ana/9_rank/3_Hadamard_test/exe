@@ -1,0 +1,4 @@
+python comb.py 3_Hadamard_test ./E_4_rank_3_Hadamard_test
+cat E_4_rank_3_Hadamard_test
+
+

@@ -1,0 +1,4 @@
+python comb.py 4_SWAP_test ./E_4_rank_4_SWAP_test
+cat E_4_rank_4_SWAP_test
+
+

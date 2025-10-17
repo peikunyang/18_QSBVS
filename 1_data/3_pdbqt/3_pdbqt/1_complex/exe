@@ -1,0 +1,5 @@
+#!/bin/bash
+prepare_receptor4.py -r ../../2_ori/1_pro/8F76_comp_step5_pro.pdb -o 8F76_comp_step5_pro.pdbqt -A none
+prepare_receptor4.py -r ../../2_ori/1_pro/8F76_pro_step5.pdb -o 8F76_pro_step5.pdbqt -A none
+
+

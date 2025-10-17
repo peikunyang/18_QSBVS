@@ -1,0 +1,35 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+REC=../../1_comb/3_unitary/1_rec
+LIG=../../1_comb/2_comb/2_lig_combine/lig_chg_occ
+REC_ORDER=../../1_comb/2_comb/1_rec_combine/rec_pot_order
+LIG_ORDER=../../1_comb/2_comb/2_lig_combine/lig_chg_occ_order
+
+OUTDIR=energy
+LOGDIR=logs
+mkdir -p "$OUTDIR" "$LOGDIR"
+
+shots_list=(10 100 1000 10000 100000 1000000 10000000 100000000)
+
+group=1
+for SHOTS in "${shots_list[@]}"; do
+  for i in {1..5}; do
+    OUTFILE="${OUTDIR}/energy_${group}_${i}"
+    LOGFILE="${LOGDIR}/energy_${group}_${i}.log"
+    echo "Running shots=${SHOTS} -> ${OUTFILE}"
+    python3 energy.py \
+      --rec_file "$REC" \
+      --lig_file "$LIG" \
+      --rec_order "$REC_ORDER" \
+      --lig_order "$LIG_ORDER" \
+      --rec_norm 3000 --lig_norm 3 --elevate 0 \
+      --shots "$SHOTS" \
+      --outfile "$OUTFILE" \
+      >"$LOGFILE" 2>&1
+  done
+  ((group++))
+done
+
+echo "ALL DONE."
+

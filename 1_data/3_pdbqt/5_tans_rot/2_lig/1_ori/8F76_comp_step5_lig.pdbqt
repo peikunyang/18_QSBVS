@@ -1,0 +1,13 @@
+REMARK  1 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C1_1  and  C2_2 
+ROOT
+ATOM      1  C1  PPI F   1       0.063  -0.353  -0.579  0.00  0.00     0.172 C 
+ATOM      2  O1  PPI F   1       1.150  -0.660  -1.151  0.00  0.00    -0.648 OA
+ATOM      3  O2  PPI F   1      -0.944  -1.150  -0.525  0.00  0.00    -0.648 OA
+ENDROOT
+BRANCH   1   4
+ATOM      4  C2  PPI F   1      -0.076   1.043   0.092  0.00  0.00     0.109 C 
+ATOM      5  C3  PPI F   1      -1.150   1.150   1.151  0.00  0.00     0.016 C 
+ENDBRANCH   1   4
+TORSDOF 1

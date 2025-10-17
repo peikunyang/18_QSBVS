@@ -1,0 +1,1 @@
+python make_maps.py --indir ../2_FF/FF --ad4dat ../2_FF/AD4.1_bound.dat --outdir maps --min -1.8 --max 2.4 --spacing 0.6

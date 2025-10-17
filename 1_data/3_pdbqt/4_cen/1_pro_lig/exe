@@ -1,0 +1,2 @@
+python min_cube_complex.py --lig ../../3_pdbqt/2_lig/pdbqt/8F76_comp_step5_lig.pdbqt --pro ../../3_pdbqt/1_pro/pdbqt/8F76_comp_step5_pro.pdbqt > log
+

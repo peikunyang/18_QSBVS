@@ -1,0 +1,2 @@
+python cmp.py ../1_data/E_1_atom ../1_data/E_2_map ./energy
+cat energy

@@ -1,0 +1,4 @@
+/home/kun/anaconda3/envs/qml-gpu/lib/python3.10/site-packages/requests/__init__.py:86: RequestsDependencyWarning: Unable to find acceptable character detection dependency (chardet or charset_normalizer).
+  warnings.warn(
+Using device: lightning.gpu
+saved 32 rows to energy/energy_0

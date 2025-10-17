@@ -1,0 +1,2 @@
+python comb.py ../1_data/X/Y energy
+cat energy
