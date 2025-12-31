@@ -1,0 +1,2 @@
+python3 trans.py --input_root ../2_rot/maps --output_root maps
+

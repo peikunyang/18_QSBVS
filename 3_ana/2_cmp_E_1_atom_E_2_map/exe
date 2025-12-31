@@ -1,0 +1,4 @@
+python cmp.py ../1_data/1_energy/E_1_atom ../1_data/1_energy/E_2_map ./energy_2_cmp_E_1_atom_E_2_map
+cat energy_2_cmp_E_1_atom_E_2_map
+
+

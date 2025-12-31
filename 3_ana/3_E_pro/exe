@@ -1,0 +1,10 @@
+python com.py \
+  ../1_data/1_energy/E_1_atom \
+  ../1_data/1_energy/E_2_map \
+  ../1_data/2_trun/3_Ene_classical \
+  ../1_data/2_trun/4_Ene_Hadamard_test/1_pro \
+  ./Eenergy_pro
+
+cat Eenergy_pro
+
+

@@ -1,0 +1,2 @@
+python3 rot.py --input_root ../1_ori --output_root maps
+

@@ -1,0 +1,2 @@
+python min_cube.py --lig ../../3_pdbqt/2_lig/pdbqt/PPI-M.pdbqt --pro ../../3_pdbqt/1_complex/pdbqt/comp.pdbqt > log
+

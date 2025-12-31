@@ -1,0 +1,2 @@
+python con_pdbqt.py --orig apo.pdbqt --chim apo_chimera.pdb --out pdbqt/apo.pdbqt
+

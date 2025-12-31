@@ -1,0 +1,4 @@
+python rank.py ../1_comb/Eenergy_shot rank
+
+cat rank
+

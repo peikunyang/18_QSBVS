@@ -1,0 +1,10 @@
+BASE=2_max_1
+
+python3 energy.py \
+  --rec_norm ../../1_trun_rec_map/$BASE/lengths \
+  --lig_norm ../../2_comb_lig_map/2_comb/lengths \
+  --rec_dir  ../../1_trun_rec_map/$BASE/maps \
+  --lig_dir  ../../2_comb_lig_map/4_tra/maps \
+  --outfile energies
+
+

@@ -1,0 +1,4 @@
+python3 rot_cen_lig.py --lig ../../3_pdbqt/2_lig/pdbqt/But1.pdbqt
+python3 rot_cen_lig.py --lig ../../3_pdbqt/2_lig/pdbqt/But2.pdbqt
+python3 rot_cen_lig.py --lig ../../3_pdbqt/2_lig/pdbqt/PPI-id.pdbqt
+
