@@ -74,13 +74,6 @@ This directory contains scripts for post-processing and analysis of computed ene
 
 ---
 
-## Data and Software Availability
-
-All data and scripts supporting the study are available in this repository:
-
-👉 https://github.com/peikunyang/18_QSBVS
-
----
 
 ## Author
 
