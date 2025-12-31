@@ -1,5 +1,3 @@
-# 18_QSBVS
-
 This repository contains the data preparation, energy evaluation, and analysis pipeline used in the study  
 **“Map-Based Quantum Inner-Product Scoring for Structure-Based Virtual Screening.”**
 
