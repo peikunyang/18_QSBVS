@@ -66,13 +66,6 @@ This directory contains scripts for post-processing and analysis of computed ene
 - Evaluation of finite-sampling effects
 - Ranking and comparison of receptor–ligand configurations
 
-The analysis focuses on:
-- Energy stability
-- Variance under finite sampling
-- Preservation of energetic ordering
-
----
-
 ## Notes
 
 - The repository is designed to mirror the computational pipeline described in the associated manuscript.
