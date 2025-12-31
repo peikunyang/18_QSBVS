@@ -80,3 +80,8 @@ This directory contains scripts for post-processing and analysis of computed ene
 **Pei-Kun Yang**  
 Email: peikun@isu.edu.tw  
 Alternate: peikun6416@gmail.com
+
+## License
+
+This project is released under the MIT License.
+
