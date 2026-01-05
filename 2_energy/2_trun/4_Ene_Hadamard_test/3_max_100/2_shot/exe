@@ -5,5 +5,5 @@ python3 energy.py \
   --lig_file ../../../2_comb_lig_map/2_comb/maps \
   --rec_norm ../../../1_trun_rec_map/$BASE/lengths \
   --lig_norm ../../../2_comb_lig_map/2_comb/lengths \
-  --nmin 8 --nmax 8
+  --nmin 3 --nmax 7
 

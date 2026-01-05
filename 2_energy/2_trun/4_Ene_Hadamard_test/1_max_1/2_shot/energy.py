@@ -137,7 +137,7 @@ def main():
     ap.add_argument("--lig_file", required=True)
     ap.add_argument("--rec_norm", required=True)
     ap.add_argument("--lig_norm", required=True)
-    ap.add_argument("--repeat", type=int, default=10)
+    ap.add_argument("--repeat", type=int, default=1000)
     ap.add_argument("--nmin", type=int, default=1)
     ap.add_argument("--nmax", type=int, default=9)
     ap.add_argument("--nproc", type=int, default=None)
