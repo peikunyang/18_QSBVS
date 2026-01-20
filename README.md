@@ -1,5 +1,5 @@
 This repository contains the data preparation, energy evaluation, and analysis pipeline used in the study  
-**“Map-Based Quantum Inner-Product Scoring for Structure-Based Virtual Screening.”**
+**“Quantum Inner Product Scoring with Grid-Based Maps for Structure-Based Virtual Screening”**
 
 The workflow implements a map-based reformulation of protein–ligand interaction energies, including electrostatic and van der Waals contributions, and supports both classical and quantum inner-product–based energy evaluation.
 
