@@ -83,7 +83,7 @@ framework. No quantum hardware was used in this study.
 ## Notes
 
 - The repository is designed to mirror the computational pipeline described in the associated manuscript.
-- Quantum inner-product estimation is implemented using the Hadamard test, as described in the Supplementary Information of the paper.
+- Quantum inner-product estimation is implemented using a Hadamard-test–based protocol, as described in the Supplementary Information of the paper.
 - This repository serves as a reference implementation and data archive rather than a standalone docking package.
 
 ---
