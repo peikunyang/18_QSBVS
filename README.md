@@ -66,6 +66,20 @@ This directory contains scripts for post-processing and analysis of computed ene
 - Evaluation of finite-sampling effects
 - Ranking and comparison of receptor–ligand configurations
 
+## Software Overview
+
+Molecular dynamics system preparation was performed using CHARMM-GUI, and all MD
+simulations were carried out with OpenMM. Ligand and receptor preprocessing
+(including format conversion and atom typing) was conducted using Open Babel and
+AutoDockTools (prepare_receptor4.py and prepare_ligand4.py) with AutoDock 4.1
+parameters.
+
+Energy grid construction and data processing were implemented in Python using
+NumPy and standard scientific libraries, with optional multiprocessing support.
+
+Quantum circuits were constructed and simulated classically using the PennyLane
+framework. No quantum hardware was used in this study.
+
 ## Notes
 
 - The repository is designed to mirror the computational pipeline described in the associated manuscript.
